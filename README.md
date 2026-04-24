@@ -27,8 +27,3 @@ Then open:
 http://localhost:8000
 
 ---
-
-## Notes
-- Replace YouTube links in js/course.js
-- Uses browser database (IndexedDB)
-- No external installation required (except Python)
